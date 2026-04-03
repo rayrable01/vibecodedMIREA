@@ -11,5 +11,3 @@ npm run dev
 ##
 переходишь по ссылке локалхоста
 ##
-в continue выбираешь deepseek -> deepseek chat
-token: sk-53b2314b896441dfa94c346b48794d0e
